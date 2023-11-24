@@ -8,7 +8,7 @@ My name is Stan and I’m 29.
 Here are facts about me:
 - ✈️ I have been working and traveling since 2021
 - 🎒 I travel with a backpack of clothes and gadgets
-- ⛺️ I sleep in Indian tents, medieval castles, and motorhomes
+- ⛺️ I sleep in Indian tents, castles, and motorhomes
 - 🏄‍♂️ Last year, I took my first surfing lesson
 - 💃 Latin dancing is my hobby
 - 💵 I invest in stocks and crypto
