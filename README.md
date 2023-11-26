@@ -11,7 +11,6 @@ Here are facts about me:
 - ⛺️ I sleep in Indian tents, castles, and motorhomes
 - 🏄‍♂️ Last year, I took my first surfing lesson
 - 💃 Latin dancing is my hobby
-- 💵 I invest in stocks and crypto
 - 🌴 Palm trees, good company, and healthy food are what make me happy
 - 🇫🇷 My French is a work in progress
 - ❤ Love and empathy is my religion 
