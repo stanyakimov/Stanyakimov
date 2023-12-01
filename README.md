@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=stanyakimov&layout=compact&langs_count=8&card_width=320)
 
 
-My name is Stan and I’m 29. 
+My name is Stan and I’m 29
 Here are facts about me:
 - ✈️ I have been working and traveling since 2021
 - 🎒 I travel with a backpack of clothes and gadgets
