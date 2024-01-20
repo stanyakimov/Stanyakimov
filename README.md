@@ -7,13 +7,14 @@
 My name is Stan and I’m 29
 Here are facts about me:
 - ✈️ I have been working and traveling since 2021
-- 🎒 I travel with a backpack of clothes and gadgets
-- ⛺️ I sleep in Indian tents, castles, and motorhomes
+- 🎒 I travel with a backpack of clothes & gadgets
+- ⛺️ I sleep in tents, castles, motorhomes and colivings
+- 🪄 I do magic using NLP(Neuro-Linguistic Programming) 
 - 🏄‍♂️ Last year, I took my first surfing lesson
 - 💃 Latin dancing is my hobby
 - 🌴 Palm trees, good company, and healthy food are what make me happy
-- 🇫🇷 My French is a work in progress
-- ❤ Love and empathy is my religion 
+- 🇫🇷 My French & Spanish 🇪🇸 are work in progress
+- ❤ Love & empathy is my religion 
 
 <!--
 - 🔭 I’m currently working on ...
