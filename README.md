@@ -5,6 +5,7 @@
 
 
 My name is Stan and I’m 29
+
 Here are facts about me:
 - 👨🏻‍💻 I'm in tech since 2013
 - 🪄 I do magic using NLP(Neuro-Linguistic Programming) 
