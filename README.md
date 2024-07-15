@@ -3,7 +3,6 @@
 ![Stan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanyakimov&show_icons=true&theme=shadow_blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=stanyakimov&layout=compact&langs_count=8&card_width=320)
 
-- 👨🏻‍💻 I'm just looking around
 - 🇫🇷 My French & Spanish 🇪🇸 are work in progress
 - 📍 Based in Barcelona 
 
